@@ -1,5 +1,5 @@
 # AI-for-Trading-UDACITY
-Mandatory submissions corresponding to periods 1 and 2 as required by AI for Trading Nanodegree 
+Mandatory submissions corresponding to term 1 and 2 as required by AI for Trading Nanodegree 
 
 ## Period 1 - Quantitative Trading
 
