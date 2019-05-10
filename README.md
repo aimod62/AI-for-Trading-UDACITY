@@ -9,7 +9,7 @@ Mandatory submissions corresponding to periods 1 and 2 as required by AI for Tra
 ### Project 4 - Multifactor Model 	
 
 
-##Period 2 - AI Algorithms in Trading
+## Period 2 - AI Algorithms in Trading
 
 ### Project 5 - NLP on Financial Statements
 ### Project 6 - Sentiment Analysis with Neural Networks
